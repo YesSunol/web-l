@@ -1,0 +1,22 @@
+/* #intro  */
+
+#intro {
+    position: relative;
+  background-image: url("../img/Links/fondo3.jpg");
+    height: 844px;
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center;
+    height: 44rem;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 5px;
+  }
+  
+  
+  #intro .container {
+    margin-bottom: 65px;
+    position: relative;
+    z-index: 2;
+  }
